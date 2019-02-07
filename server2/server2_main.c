@@ -4,7 +4,7 @@
             Exercise 3.1 Lab 3
             (server)
  
-            Student:Antonio Tavera | ID:243869
+            Developer:Antonio Tavera
  
 ************ BRIEF EXPLANATION OF THE ALGORITHM **************
  In this exercise I am developing a concurrent TCP server that, after having established a TCP connection with a client, accepts file transfer requests and sends the requested files following its specific protocol.
